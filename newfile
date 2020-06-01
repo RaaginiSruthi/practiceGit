@@ -1,0 +1,10 @@
+When I edited the document and used git restore filename, the document reverted back to its previous state
+
+The newly added content disappeared and the old content came back.
+
+to rename a file
+
+git mv oldfilename newfilename
+
+the rename also need to be comitted
+
