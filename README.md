@@ -1,5 +1,6 @@
 # practiceGit
-This is just to practice Git commandsst want to add few more lines
+This is just to practice Git commands
 
-and do delete rename later
-Ju
+#Section One
+##Section Two
+##Section Three
