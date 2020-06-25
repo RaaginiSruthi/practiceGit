@@ -8,5 +8,5 @@ Adding to put in in staging area
 
 # Section 2
 
-#Section 3
+
 
