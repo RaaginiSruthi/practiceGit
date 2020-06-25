@@ -5,3 +5,11 @@ git commit
 git status
 git pull
 git push
+
+Need to add some more commands
+git log
+git remote
+git checkout
+git diff
+git merge
+git branch
