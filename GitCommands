@@ -8,3 +8,10 @@ git push
 
 Added more commands and that got deleted when i switch
 add more commands
+git branch
+git merge
+git diff
+git log
+git checkout
+git reset
+git restore
