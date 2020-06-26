@@ -15,3 +15,8 @@ git log
 git checkout
 git reset
 git restore
+
+Somemore....
+git difftool
+git meretool
+git remote
