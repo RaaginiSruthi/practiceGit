@@ -15,3 +15,5 @@ Also learnt rebase
 git fetch origin master
 followed by
 git pull --rebase origin master
+
+learning rebasing branches
