@@ -1,8 +1,8 @@
 # practiceGit
 This is just to practice Git commands
 
-#Section One
-
+# Section One
+Coverted section one line to heading
 Adding text in Section One
 Adding to put in in staging area
 
