@@ -17,3 +17,4 @@ followed by
 git pull --rebase origin master
 
 learning rebasing branches
+rebase done on feature, edit post that
