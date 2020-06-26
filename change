@@ -1,0 +1,13 @@
+Reverting changes 
+
+git revert -m1 d1419d4
+
+TO go back to a specific commit for a specific file
+
+git checkout c5f567 -- file1/to/restore file2/to/restore
+
+git diff <commit hash> <filename>
+Then to revert a specific file to that commit use the reset command:
+
+git reset <commit hash> <filename>
+
