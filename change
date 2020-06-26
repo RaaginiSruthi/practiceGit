@@ -11,3 +11,7 @@ Then to revert a specific file to that commit use the reset command:
 
 git reset <commit hash> <filename>
 
+Also learnt rebase
+git fetch origin master
+followed by
+git pull --rebase origin master
