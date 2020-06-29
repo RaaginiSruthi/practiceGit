@@ -27,3 +27,4 @@ git stash
 git stash list
 git stash apply
 git stash pop
+worked...pop - apply + drop
