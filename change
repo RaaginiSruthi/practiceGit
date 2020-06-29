@@ -28,3 +28,5 @@ git stash list
 git stash apply
 git stash pop
 worked...pop - apply + drop
+git stash clear
+git stash show
