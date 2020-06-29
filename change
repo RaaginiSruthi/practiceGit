@@ -22,3 +22,7 @@ rebase done on feature, edit post that
 rebase conflict : git rebase --abort git mergetool git rebase --continue 
 
 Stashing
+git stash drop
+git stash
+git stash list
+git stash apply
